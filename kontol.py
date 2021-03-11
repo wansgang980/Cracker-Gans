@@ -118,8 +118,8 @@ def masuk():
 def pilih_masuk():
 	msuk = raw_input("\033[1;92m︻デ═一▸Pilih Login? \033[91m:\033[1;92m ")
 	if msuk =="":
-		print"\033[1;97m[\033[1;91m!\033[1;97m] Isi Yg Benar Sayang!"
-		print"\033[1;97m[\033[1;91m!\033[1;97m]Isi yang benr anjing share lok balu hantam kita!"
+		print"\033[1;97m[\033[1;91m!\033[1;97m] Isi Yg DONG YANG BENER NGENTOD!"
+		print"\033[1;97m[\033[1;91m!\033[1;97m]MUKA COLY KAYA LU PANTESAN BEGONYA MINTA AMPUN!"
 		pilih_masuk()
 	elif msuk =="1" or msuk =="01":
 		tokenz()

@@ -9,9 +9,9 @@ $pip2 install mechanize requests
 
 $pip2 install bs4
 
-$git clone https://github.com/wansgang980/WANS-CR4CKER
+$git clone https://github.com/wansgang980/GANS-CR4CKER
 
-$cd WANS-CR4CKER
+$cd GANS-CR4CKER
 
 $python2 kontol.py
 

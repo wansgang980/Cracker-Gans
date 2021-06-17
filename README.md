@@ -15,8 +15,7 @@ $cd Cracker-Gans
 
 $python2 kontol.py
 
-
-[url=https://postimg.cc/34fM8RSC][img]https://i.postimg.cc/34fM8RSC/FB-IMG-16239056034450063.jpg[/img][/url]
+(Image.src)=https://postimg.cc/34fM8RSC
 
 Copy disini paste di termuccc
 
